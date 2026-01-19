@@ -21,7 +21,7 @@ I enjoy building **end-to-end AI solutions**, fine-tuning **LLMs**, and turning 
 
 I’m building a **smart fashion assistant** startup:  
 A platform that uses **AI chatbots, model fitting, and product search** to help customers find the perfect clothing easily.  
-<img src="https://giphy.com/gifs/ClearCOGS-ai-good-for-kJKci76DgE3dmqzKvH"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ5OHh1bjh0bmpvMGtsOXdid2syYnFjdDRmamE2N280dHd3ODluYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1nR6fu93A17vWZbO9c/giphy.gif"/>
 
 ---
 
